@@ -1,4 +1,7 @@
 {
-  "start_message": "Выберите город из предложенных вариантов:",
-  "help_message": "Здравствуйте! Этот бот умеет сообщать прогноз погоды для выбранного города. Для получения прогноза погоды на день нажмите start и выберите город из предложенных вариантов."
+  "start_message": "Выберите один из предложенных вариантов:",
+  "help_message": "Здравствуйте! Этот бот умеет сообщать прогноз погоды для выбранного города. Для получения прогноза погоды на день нажмите start и выберите город из предложенных вариантов.",
+  "img_url": "https://img.magnific.com/free-photo/view-adorable-kitten-inside-house_23-2150758110.jpg?semt=ais_hybrid",
+  "song_file": "ACDC-Back_In_Black.mp3",
+  "video_url": "https://www.youtube.com/shorts/SKcEmKfEPCc"
 }
