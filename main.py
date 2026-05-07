@@ -1,6 +1,6 @@
 import asyncio
 
-from buttonbot import dp, bot
+from stocksbot import dp, bot
 
 async def main():
     print("Bot started")

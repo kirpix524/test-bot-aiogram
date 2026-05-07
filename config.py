@@ -11,6 +11,7 @@ def load_config():
     load_dotenv(".env")
     config["tg_bot_token"] = os.getenv("BOT_TOKEN")
     config["weather_token"] = os.getenv("WEATHER_TOKEN")
+    config["stocks_token"] = os.getenv("STOCKS_TOKEN")
     return config
 
 config = load_config()
@@ -21,3 +22,4 @@ START_MESSAGE = config["start_message"]
 PICTURE_URL = config["img_url"]
 MUSIC_FILE = config["song_file"]
 VIDEO_URL = config["video_url"]
+STOCKS_API_KEY = config["stocks_token"]
